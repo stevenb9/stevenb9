@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @stevenb9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Steven (@stevenb9)</h3>
 
-<!---
-stevenb9/stevenb9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://easycode.be/">EasyCode</a> | 
+  <a href="https://diyprojects.tech/">Projects</a> | 
+  <a href="https://youtube.com/@DIYSteven362">Youtube</a> | 
+  <a href="https://www.linkedin.com/in/stevenb9/">Linkedin</a>
+</p>
+
+---
+
+- 👀 I'm interested in technology, science, and programming.
+- 🌱 I’m currently learning new programming languages and frameworks to keep up with the latest trends.
+- 💞️ I’m looking to collaborate on mobile projects and build amazing mobile apps.
